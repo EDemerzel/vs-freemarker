@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>ftl</string>
+		<string>ftlh</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>(?x)
